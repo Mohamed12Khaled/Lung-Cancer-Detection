@@ -126,7 +126,7 @@ This project is conducted as part of a master's research program. The core purpo
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 lung-cancer-detection/
