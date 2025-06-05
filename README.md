@@ -145,8 +145,8 @@ This project is conducted as part of a master's research program. The core purpo
 ```
 lung-cancer-detection/
 ├── data/
-│   ├── internal_ct/
-│   └── lidc_idri/
+│   ├── local_CT_lung data/
+│   
 ├── notebooks/
 │   ├── 1_preprocessing.ipynb
 │   ├── 2_training_baseline_msnn.ipynb
