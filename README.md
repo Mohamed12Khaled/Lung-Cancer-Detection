@@ -9,7 +9,21 @@ This project aims to replicate and enhance the hybrid deep learning model "Maxim
 
 **Authors:** \[Sugandha Saxena, S. N. Prasad, Ashwin M Polnaya, Shweta Agarwala]
 
-**Institution:** A.J Hospital, Mangalore
+**Institution:** 1 School of Electronics and Communication Engineering, REVA University Bangalore, India
+
+
+
+2 Department of Electronics and Communication Engineering, Manipal Institute of Technology Bengaluru, 
+Manipal Academy of Higher Education, Manipal. Bengaluru, India
+
+
+
+3 Department of Radiology, Interventional Radiology Division, A J Hospital & Research Centre, Kuntikana, 
+Mangalore, India
+
+
+
+4 Department of Electrical and Computer Engineering, Aarhus University, Aarhus 8200, Denmark
 
 **Dataset:** Chest CT scan images (249 cancerous, 185 normal)
 
